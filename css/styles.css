@@ -16,10 +16,20 @@ body{
     border: 20 px;
 
 }
+img{
+    border: 50px;
+    padding: 40px;
+    width: 250px;
+    float: left;
+}
+div{
+    border: 0px;
+    float: left;
+}
 .box-model{
-    background-image:url(/images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg);
-    background-size: 200px,300px;
-    background-repeat: no-repeat;
+    /* background-image:url(/images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg); */
+    /* background-size: 200px,300px; */
+    /* background-repeat: no-repeat; */
     /* background-color: turquoise; */
     padding: 10px;
     height: 200px;
