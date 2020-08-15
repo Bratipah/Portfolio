@@ -1,0 +1,19 @@
+h2{
+    font-style: xx-large;
+    text-align: center;
+    color: turquoise;
+    
+}
+h3{
+    font-style: x-large;
+    text-align: left;
+    color: yellow;
+    padding: 200px;
+
+}
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    border: 20 px;
+
+}
