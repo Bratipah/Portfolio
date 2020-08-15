@@ -10,6 +10,17 @@ h3{
     color: yellow;
     padding: 180px;
 }
+h4{
+    font-style:xx-large;
+    font-size: x-large;
+    text-align:center;
+    background-color:black;
+    color: yellowgreen;
+    padding: 0px;
+    width:300px;
+    float: right;
+
+}
 body{
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -24,18 +35,19 @@ img{
 }
 div{
     border: 0px;
-    float: left;
+    
+
 }
+
 .box-model{
-    /* background-image:url(/images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg); */
-    /* background-size: 200px,300px; */
-    /* background-repeat: no-repeat; */
-    /* background-color: turquoise; */
-    padding: 10px;
-    height: 200px;
-    width: 800px;
-    float: left;
+    background-image:url(/images/stanley-dai-73OZYNjVoNI-unsplash.jpg);
+    background-size:800px,200px;
+    background-repeat: no-repeat;
+    padding: 100px;
+    height: 300px;
+    width: 1100px;
+    margin: 30px;
     text-align: center;
-    color: yellow;
+    background-color: yellow;
 
 }
