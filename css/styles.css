@@ -8,11 +8,24 @@ h3{
     font-style: xx-large;
     text-align: left;
     color: yellow;
-    padding: 200px;
+    padding: 180px;
 }
 body{
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
     border: 20 px;
+
+}
+.box-model{
+    background-image:url(/images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg);
+    background-size: 200px,300px;
+    background-repeat: no-repeat;
+    /* background-color: turquoise; */
+    padding: 10px;
+    height: 200px;
+    width: 800px;
+    float: left;
+    text-align: center;
+    color: yellow;
 
 }
