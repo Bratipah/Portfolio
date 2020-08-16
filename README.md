@@ -48,7 +48,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
-[Bratipah Kioko ]() 
+[Bratipah Kioko ](https://github.com/Bratipah/Portfolio/blob/gh-pages/images/IMG_20190823_140252.jpg) 
 
 ## [License](https://github.com/bratipah/WebApp/blob/master/LICENSE.md)
 
