@@ -35,6 +35,7 @@ body{
 }
 img{
     border: 50px;
+    box-shadow: black;
     padding: 40px;
     width: 300px;
     float: left;
@@ -63,7 +64,7 @@ li{
     background-color:black;
     font-size:x-large;
     height: 45px;
-    width: 1000px;
+    width: 100%;
 }
 .em{
     font-style: italic;
@@ -90,6 +91,7 @@ div{
 .container{
     display: flex;
     color: white;
+    background-color:black;
 }
 .container p{
     color: yellowgreen;
@@ -99,9 +101,11 @@ div{
     left: 10px;
 }
 .footer{
-    color: yellow;
+    color: black;
     display: block;
     width: 100%;
     height: 30px;
+    font-size: large;
     text-align: center;
+    background-color: yellow;
 }
