@@ -1,9 +1,8 @@
-# ![WebApp](https://i.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+# Portfolio
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+A website using HTML and CSS to display my qualities as a person both in education wise,job experience and interests.It helps employess identify my strongholds at ease by checking out my certifications and experiennces.They also have a chance to check out my previous projects and gauge my prowess in software developing.
 </td>
 </tr>
 </table>
@@ -11,33 +10,7 @@
 
 ## Demo
 Here is a working live demo :  https://bratipah.github.io/WebApp/
-
-
-## Site
-
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://bratipah.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-![](https://bratipah.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://bratipah.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://bratipah.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://bratipah.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/start.html/images/demo/mobile.png)
-
-
-
-
-## [Usage](https://bratipah.github.io/start.html/) 
+ 
 
 ### Development
 Want to contribute? Great!
@@ -54,9 +27,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/bratipah/start.html/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Bratipah/Portfolio) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Bratipah/Portfolio). Please include sample queries and their corresponding results.
 
 
 ## Built with 
@@ -75,7 +48,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[Bratipah Kioko ]() 
 
 ## [License](https://github.com/bratipah/WebApp/blob/master/LICENSE.md)
 
