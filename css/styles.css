@@ -13,12 +13,12 @@ h3{
 }
 h4{
     font-style:xx-large;
-    font-size: x-large;
+    font-size: large;
     text-align:center;
     background-color:black;
     background-position: center;
     color: yellowgreen;
-    padding: 0px;
+    padding:none;
     width:350px;
     float: right;
 
@@ -55,9 +55,34 @@ div{
 }
 li{
     text-align: centre;
+    color: yellowgreen;
+    background-color:black;
+    font-size:x-large;
+    height: 100px;
 }
 .em{
     font-style: italic;
     font-size: small;
 
+}
+a{
+    font-size: small;
+    background-color:white;
+}
+li1{
+    text-align: centre;
+    color: yellowgreen;
+    background-color:black;
+    font-size: x-large;
+    height:8px;
+
+}
+.column{
+    background-color: yellow;
+    float:right;
+    height: 250px;
+    width:100%;   
+}
+div{
+    font-size: large;
 }
