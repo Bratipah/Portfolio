@@ -2,7 +2,7 @@ The Star And Thank Author License (SATA)
 
 Copyright (c) [Bratipah Kioko](https://github.com/bratipah) <bratipah@gmail.com>
 
-Project Url: https://github.com/bratipah/start
+Project Url: https://github.com/Bratipah/Portfolio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
