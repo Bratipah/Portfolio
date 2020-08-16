@@ -19,6 +19,7 @@ h4{
     background-position: center;
     color: yellowgreen;
     padding:none;
+    height: 325px;
     width:350px;
     float: right;
 
@@ -27,12 +28,15 @@ body{
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
     border: 20 px;
+    background-image: url(/images/riz-mooney-IbngTBpNuMA-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
 
 }
 img{
     border: 50px;
     padding: 40px;
-    width: 250px;
+    width: 300px;
     float: left;
 }
 div{
@@ -58,7 +62,7 @@ li{
     color: yellowgreen;
     background-color:black;
     font-size:x-large;
-    height: 100px;
+    height: 45px;
 }
 .em{
     font-style: italic;
@@ -70,9 +74,12 @@ a{
     background-color:white;
 }
 .column{
-    background-color: yellow;
+    background-color: none;
+    color: yellow;
+    font-size: large;
     float:right;
-    height: 500px;
+    margin: 20px;
+    height: 250px;
     width:100%;   
 }
 div{
