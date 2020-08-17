@@ -28,7 +28,7 @@ body{
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
     border: 20 px;
-    background-image: url(./images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg);
+    background-image: url("/images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg");
     background-position: center;
     background-size: cover;
 
@@ -47,7 +47,7 @@ div{
 }
 
 .box-model{
-    background-image:url(/images/stanley-dai-73OZYNjVoNI-unsplash.jpg);
+    background-image:url("/images/stanley-dai-73OZYNjVoNI-unsplash.jpg");
     background-size:700px,20px;
     background-repeat: no-repeat;
     padding: 100px;
