@@ -28,7 +28,7 @@ body{
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
     border: 20 px;
-    background-image: url("/images/eric-combeau-Tw0eeOOzCVs-unsplash.jpg");
+    background-image: url("/images/riz-mooney-IbngTBpNuMA-unsplash.jpg");
     background-position: center;
     background-size: cover;
 
@@ -42,8 +42,6 @@ img{
 }
 div{
     border: 0px;
-    
-
 }
 
 .box-model{
