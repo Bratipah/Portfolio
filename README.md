@@ -33,7 +33,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 
-[Bratipah Kioko ](https://github.com/Bratipah/Portfolio/blob/gh-pages/images/IMG_20190823_140252.jpg) 
+[Bratipah Kioko ](/images/IMG_20190823_140252.jpg) 
 
 ## [License](https://github.com/Bratipah/Portfolio/blob/gh-pages/LICENSE.md)
 
