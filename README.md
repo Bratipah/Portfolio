@@ -37,5 +37,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/Bratipah/Portfolio/blob/gh-pages/LICENSE.md)
 
-MIT © [Bratipah Kioko ](https://github.com/bratipah)
+[LICENSE.md] © [Bratipah Kioko ](https://github.com/bratipah)
 
